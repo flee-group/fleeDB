@@ -1,0 +1,15 @@
+Package: fleeDB
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Matthew",
+           family = "Talluto",
+           role = c("aut", "cre"),
+           email = "mtalluto@gmail.com")
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Encoding: UTF-8
+Language: en
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
